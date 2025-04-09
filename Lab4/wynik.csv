@@ -1,0 +1,22 @@
+Nazwa,SMILES,Masa molowa, LogP , Liczba donorow H , Liczba akceptorow H , Liczba pierscieni , Liczba wiazan rotowalnych 
+Isopropyl Alcohol,CC(C)O,60.096000000000004,0.3871,1,1,0,0
+Isopropyl Alcohol,CC(C)O,60.096000000000004,0.3871,1,1,0,0
+Isopropyl Alcohol,CC(C)O,60.096000000000004,0.3871,1,1,0,0
+Methamphetamine,CNC(C)Cc1ccccc1,149.237,1.837,1,1,1,3
+Methamphetamine,CNC(C)Cc1ccccc1,149.237,1.837,1,1,1,3
+Methamphetamine,CNC(C)Cc1ccccc1,149.237,1.837,1,1,1,3
+Methamphetamine,CNC(C)Cc1ccccc1,149.237,1.837,1,1,1,3
+Methamphetamine,CNC(C)Cc1ccccc1,149.237,1.837,1,1,1,3
+Methamphetamine,CNC(C)Cc1ccccc1,149.237,1.837,1,1,1,3
+Methamphetamine,CNC(C)Cc1ccccc1,149.237,1.837,1,1,1,3
+Methamphetamine,CNC(C)Cc1ccccc1,149.237,1.837,1,1,1,3
+Propofol,CC(C)c1cc(O)cc(C(C)C)c1,178.27499999999998,3.6390000000000025,1,1,1,2
+Europenium,[Ti][CH]([V])C1=[C]2[Eu][CH]([Eu])C2=CC2C(=C1)[C]([Eu])=[C]([Eu])[C]([Eu])=[C]2[Eu],1171.7779999999998,2.590600000000001,0,0,3,1
+Europenium,[Ti][CH]([V])C1=[C]2[Eu][CH]([Eu])C2=CC2C(=C1)[C]([Eu])=[C]([Eu])[C]([Eu])=[C]2[Eu],1171.7779999999998,2.590600000000001,0,0,3,1
+Europenium,[Ti][CH]([V])C1=[C]2[Eu][CH]([Eu])C2=CC2C(=C1)[C]([Eu])=[C]([Eu])[C]([Eu])=[C]2[Eu],1171.7779999999998,2.590600000000001,0,0,3,1
+Europenium,[Ti][CH]([V])C1=[C]2[Eu][CH]([Eu])C2=CC2C(=C1)[C]([Eu])=[C]([Eu])[C]([Eu])=[C]2[Eu],1171.7779999999998,2.590600000000001,0,0,3,1
+Europenium,[Ti][CH]([V])C1=[C]2[Eu][CH]([Eu])C2=CC2C(=C1)[C]([Eu])=[C]([Eu])[C]([Eu])=[C]2[Eu],1171.7779999999998,2.590600000000001,0,0,3,1
+Europenium,[Ti][CH]([V])C1=[C]2[Eu][CH]([Eu])C2=CC2C(=C1)[C]([Eu])=[C]([Eu])[C]([Eu])=[C]2[Eu],1171.7779999999998,2.590600000000001,0,0,3,1
+Heksajodobenzen,Ic1c(I)c(I)c(I)c(I)c1I,833.49,5.3142000000000005,0,0,1,0
+Telluran NitroJodaniny,CC(=O)CC/C(=C1\CCC([I+][Te-])C(C)C1)C1C=C(Cl)C(C#N)=CC1C,585.3830000000003,1.851879999999999,0,2,2,5
+Silikonianian,CC1CCC(C2[Si](C)(C)[Si]2(C)C)CCC1C,254.566,4.867000000000004,0,0,2,1
